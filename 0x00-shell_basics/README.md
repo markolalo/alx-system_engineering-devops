@@ -5,3 +5,5 @@ The files are listed below indicating what each file is expected to do
 2. 1-listit -Displays the contents list of your current directory
 
 3. 2-bring_me_home - Changes your working directory to the users home directory
+
+4. 3-listfiles -Displays current directory contents in long format
