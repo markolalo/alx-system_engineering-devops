@@ -9,3 +9,5 @@ The files are listed below indicating what each file is expected to do
 4. 3-listfiles -Displays current directory contents in long format
 
 5. 4-listmorefiles -Display current directory contents, including hidden files (startingwith .)
+
+6. 5-listfiledigitonly - Display current directory contents with long format, user and group ids displayed numerically and hidden files
