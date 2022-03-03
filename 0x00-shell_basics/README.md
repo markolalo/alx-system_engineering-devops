@@ -11,3 +11,5 @@ The files are listed below indicating what each file is expected to do
 5. 4-listmorefiles -Display current directory contents, including hidden files (startingwith .)
 
 6. 5-listfiledigitonly - Display current directory contents with long format, user and group ids displayed numerically and hidden files
+
+7. 6-firstdirectory - Creates a directory named my_fist_directory in the /tmp/ directory
