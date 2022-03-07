@@ -8,3 +8,5 @@ This directory explains what will happen if you run any of these files. Be warne
 4. 3-twofiles- Displays contents of /etc/passwd and /etc/hosts
 
 5. 4-lastlines -Displays 10 lastlines of /etc/passwd
+
+6. 5-firstlines - Displays 10 firstlines of /etc/passwd
