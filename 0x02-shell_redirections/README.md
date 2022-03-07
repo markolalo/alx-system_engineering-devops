@@ -3,4 +3,6 @@ This directory explains what will happen if you run any of these files. Be warne
 
 2. 1-confused_smiley -Displays a confused smiley
 
-3. 2-hellofile -Displays contents of the /etc/passwd file
+3. 2-hellofile - Displays the contents of the file /etc/passwords
+
+4. 3-twofiles- Displays contents of /etc/passwd and /etc/hosts
