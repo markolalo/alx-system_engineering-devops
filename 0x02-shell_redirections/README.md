@@ -12,3 +12,5 @@ This directory explains what will happen if you run any of these files. Be warne
 6. 5-firstlines - Displays 10 firstlines of /etc/passwd
 
 7. 6-third_line - Displays a specific line of a file. 3rd line of the file iacta
+
+8. 7-file - Creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the line Best School
